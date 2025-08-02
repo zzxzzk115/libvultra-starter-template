@@ -1,4 +1,7 @@
 # libvultra-starter-template
+
+[![CodeFactor](https://www.codefactor.io/repository/github/zzxzzk115/libvultra-starter-template/badge)](https://www.codefactor.io/repository/github/zzxzzk115/libvultra-starter-template)
+
 A starter template for rapidly creating graphics or game prototypes with libvultra.
 
 ## Examples
